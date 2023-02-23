@@ -1,3 +1,3 @@
-# C++的東東
+# C++
 env-download內有VScode和mingw
 
