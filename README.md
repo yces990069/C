@@ -1,2 +1,3 @@
-# C-
-放東西
+# C++的東東
+env-download內有VScode和mingw
+
